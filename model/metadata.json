@@ -1,1 +1,0 @@
-{"tfjsVersion":"1.7.4","tmVersion":"2.4.10","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2025-11-18T05:30:02.399Z","userMetadata":{},"modelName":"値段分別モデル","labels":["350円(10キロ未満)","700円(10キロ以上30キロ未満)","1400円(30キロ以上60キロ未満)","2800円(60キロ以上)","リサイクル"],"imageSize":224}
